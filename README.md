@@ -1,11 +1,11 @@
-👋 ¡Hola, soy Eloy Campos!
+👋 Hello, I'm Eloy Campos!
 
-🎓 Graduado recientemente de un bootcamp en Cloud & DevOps, apasionado por transformar ideas en soluciones eficientes y escalables.
+Recent graduate of a Cloud & DevOps bootcamp, passionate about transforming ideas into efficient and scalable solutions. My journey into the world of technology has been an exciting adventure, and I'm eager to contribute my skills and learn from the vibrant community here on GitHub.
 
-🚀 Aspirante a Ingeniero de Cloud & DevOps con enfoque en automatizar procesos, optimizar infraestructuras e implementar aplicaciones solidas. Creo en el poder del aprendizaje continuo y siempre estoy explorando nuevas tecnologías para mantenerme a la vanguardia del paisaje tecnológico en constante evolución.
+🚀 I have a focus on automating processes, optimizing infrastructure, and deploying robust applications. I believe in the power of continuous learning and am always exploring new technologies to stay at the forefront of the ever-evolving tech landscape.
 
-🛠️ Competente en plataformas en la nube como AWS, Azure y GCP, y versado en herramientas como Docker y Kubernetes para la orquestación de contenedores. Disfruto enfrentando desafíos directamente y encontrando soluciones eficientes para problemas complejos.
+🛠️ Proficient in cloud platforms like AWS, Azure, and GCP, and well-versed in tools such as Docker and Kubernetes for container orchestration. I enjoy tackling challenges head-on and finding solutions to complex problems.
 
-🌐 ¡Conéctate y colaboremos! Estoy abierto a emocionantes oportunidades, discusiones sobre tendencias tecnológicas y colaboraciones en proyectos que empujen los límites de la innovación.
+🌐 Let's connect and collaborate! I'm open to exciting opportunities, discussions about tech trends, and collaborating on projects.
 
-📫 Puedes contactarme en eloy.campos.davellar@gmail.com o conectarte conmigo en LinkedIn
+📫 Reach out to me at eloy.campos.davellar@gmail.com or connect with me on LinkedIn.
