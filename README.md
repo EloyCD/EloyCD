@@ -8,4 +8,4 @@
 
 🌐 ¡Conéctate y colaboremos! Estoy abierto a emocionantes oportunidades, discusiones sobre tendencias tecnológicas y colaboraciones en proyectos que empujen los límites de la innovación.
 
-📫 Puedes contactarme en tu-correo@ejemplo.com o conectarte conmigo en LinkedIn
+📫 Puedes contactarme en eloy.campos.davellar@gmail.com o conectarte conmigo en LinkedIn
