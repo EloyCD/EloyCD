@@ -1,6 +1,7 @@
 👋 Hello, I'm Eloy Campos!
 
-Recent graduate of a Cloud & DevOps bootcamp, passionate about transforming ideas into efficient and scalable solutions.
+
+Graduate of a Cloud & DevOps bootcamp, passionate about transforming ideas into efficient and scalable solutions.
 
 I have a focus on automating processes, optimizing infrastructure, and deploying robust applications. I believe in the power of continuous learning and am always exploring new technologies to stay at the forefront of the ever-evolving tech landscape.
 
